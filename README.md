@@ -1,7 +1,7 @@
 # vaccine-api-test of Flamxby group
 
 ## Endpoint
-- testing when `Get` the specific reservations detail from reservation id.
+- testing when `GET` the specific reservations detail from reservation id.
 
 ## Testcast
 | List of test cases | Name                                                 | Description                                                                                                  | Result |
